@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 add line to aim1.txt
 
 test add dev
+=======
+add line to aim1.txt
+test
+cobain
+>>>>>>> main
